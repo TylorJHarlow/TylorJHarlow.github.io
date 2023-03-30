@@ -9,6 +9,7 @@
 locale                   : "en-US"
 title                    : "Tylor J Harlow"
 title_separator          : "-"
+theme                    : minimal
 name                     : &name "Tylor J Harlow"
 description              : &description "I am a PhD student at the University of Connecitcut. My research focuses on signal processing of electrocorticographic and local field potentials, as well as meta-analytic syntheses of studies in this field."
 url                      : https://tylorjharlow.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
