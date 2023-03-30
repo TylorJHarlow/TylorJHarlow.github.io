@@ -7,8 +7,7 @@ date: 2023-03-30
 venue: 'In preparation'
 paperurl: ''
 citation: ''
-
-[Data]:(https://osf.io/8b49k/)
-[Code]:(https://matthewbjane.github.io/meta_analyses/acoustic_stimulation_and_memory/analysis/code.html)
 ---
 
+[Data](https://osf.io/8b49k/)
+[Code](https://matthewbjane.github.io/meta_analyses/acoustic_stimulation_and_memory/analysis/code.html)
